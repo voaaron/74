@@ -1,0 +1,53 @@
+Package: com.ioslead74.autolead
+Name: autolead
+Version: 7.4.15
+Architecture: iphoneos-arm
+Description: Auto Lead iOS 8 - 10.2
+Depiction: http://repo.ioslead.com/ioslead74xxxx/debs/com.ioslead74.autolead/FILE/index.html
+Author: Bui Tuan Son
+Section: System
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,com.rbt.useragentchanger,unzip,rsync,com.ioslead74.jetslammed,socat,com.ioslead74.locationfaker8910,com.rpetrich.rocketbootstrap,mobilesubstrate
+Conflicts: jetslammed,com.nablac0d3.sslkillswitch,com.nablac0d3.sslkillswitch2,com.yourepo.voaaron.sslkillswitch
+Icon: http://itiaprepo.com/tiz38/test.png
+Size: 2966046
+MD5sum: 3ea7dfe2b18e530f931b3400961c49aa
+Filename: ./debs/com.ioslead74.autolead/com.ioslead74.autolead.deb
+
+Package: com.ioslead74.jetslammed
+Name: Jetslammed
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Library for modifying jetsam memory limits per process
+Depiction: http://repo.ioslead.com/ioslead74/debs/com.ioslead74.jetslammed/FILE/index.html
+Author: Mario Ciabarra    <https://github.com/mariociabarra/jetslammed>
+Section: Utilities
+Icon: http://itiaprepo.com/tiz38/test.png
+Size: 13076
+MD5sum: c24f2f2689358fc3601354cd23f7e5ad
+Filename: ./debs/com.ioslead74.jetslammed/com.ioslead74.jetslammed.deb
+
+Package: com.ioslead74.locationfaker8910
+Name: LocationFaker(8,9,10)
+Version: 2.0
+Architecture: iphoneos-arm
+Description: change your location using a map Cracked.....................
+Depiction: http://repo.ioslead.com/ioslead74/debs/com.ioslead74.locationfaker8910/FILE/index.html
+Author: Cunstuck    <mena@geekforex.com>
+Section: Tweaks
+Icon: http://itiaprepo.com/tiz38/test.png
+Size: 549956
+MD5sum: 54488208a0b0c31ccd4a7ea5a0cfdc2a
+Filename: ./debs/com.ioslead74.locationfaker8910/com.ioslead74.locationfaker8910.deb
+
+Package: com.ioslead74.xcon
+Name: xCon
+Version: 4.2
+Architecture: iphoneos-arm
+Description: bypass anti-jailbreak protection..................................
+Depiction: http://repo.ioslead.com/ioslead74/debs/com.ioslead74.xcon/FILE/index.html
+Author: VoAazon    <VoAazon@gmail.com>
+Section: Tweaks
+Icon: http://itiaprepo.com/tiz38/test.png
+Size: 141886
+MD5sum: 92a31b35f303714e87d2c9906d1907f8
+Filename: ./debs/com.ioslead74.xcon/com.ioslead74.xcon.deb
